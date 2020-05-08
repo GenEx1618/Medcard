@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MedCArd2</string>
+    <string name="text_fio_pat1">Odilkhujaev O.</string>
+    <string name="text_fio_pat2">Ibragimova B.</string>
+    <string name="text_fio_pat3">Batirov H.</string>
+    <string name="text_gender_male">муж.</string>
+    <string name="text_gender_female">жен.</string>
+    <string name="text_birth_pat1">18.03.1997 </string>
+    <string name="text_birth_pat2">22.06.1958</string>
+    <string name="text_birth_pat3">30.12.1972</string>
+    <string name="second_title">Данные больного</string>
+    <string name="text_com_date1">18.08.2019</string>
+    <string name="text_com_date2">06.11.2019</string>
+    <string name="text_com_date3">26.12.2019</string>
+    <string name="text_diag1">Вегето-сосудистая дистония</string>
+    <string name="text_diag2">Гипертония</string>
+    <string name="text_diag3">Хроническая пневмония</string>
+
+
+
+</resources>
